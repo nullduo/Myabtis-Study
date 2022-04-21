@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/es-test/es-test.iml" filepath="$PROJECT_DIR$/es-test/es-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estest.iml" filepath="$PROJECT_DIR$/estest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenProject.iml" filepath="$PROJECT_DIR$/mavenProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myBoot.iml" filepath="$PROJECT_DIR$/myBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-01/mybatis-01.iml" filepath="$PROJECT_DIR$/mybatis-01/mybatis-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-02.iml" filepath="$PROJECT_DIR$/mybatis-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myboot-demo/myboot-demo.iml" filepath="$PROJECT_DIR$/myboot-demo/myboot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myboot01.iml" filepath="$PROJECT_DIR$/myboot01.iml" />
+    </modules>
+  </component>
+</project>
